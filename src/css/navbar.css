@@ -1,0 +1,71 @@
+.navbar1 {
+    height: 76px;
+    z-index: 1100;
+    box-shadow: 0.1px 0.1px 15px 0.01px black;
+}
+
+.logo {
+    height: 56px;
+}
+
+.navbar-ul {
+    height: 56px;
+    list-style: none;
+}
+
+.navbar-ul>li {
+    color: #707070;
+    cursor: pointer;
+}
+
+.pri {
+    color: #3C82F4 !important;
+}
+
+.sign-up {
+    background-color: #3C82F4;
+    color: #fff;
+    border: 0px;
+    outline: 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.bars {
+    background-color: #3C82F4;
+    color: #fff;
+    border: 0px;
+    outline: 0px;
+    padding: 3px 7px;
+    border-radius: 5px;
+}
+
+#offcanvas {
+    height: 400px;
+    z-index: 1101;
+    display: none;
+}
+
+.xmark {
+    height: 50px;
+    border-bottom: 1px solid #707070;
+}
+.btn-xmark{
+    background: none;
+    border: 0;  
+}
+.fa-xmark{
+    color: #707070;
+}
+.on{
+    box-shadow: 1px 1px 8px 5px rgb(31, 30, 30);
+}
+.navbarh1{
+    color: #fff;
+}
+.company{
+    width: 130px;
+}
+.nav-link{
+    color: #707070 !important;
+}
